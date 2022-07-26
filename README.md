@@ -1,6 +1,14 @@
+
 <h1 align="center"> ☢️ SKAT ☢️ </h1>
 <br>
 <br>
+<p>
+  <img src="https://img.shields.io/github/languages/top/kl3ssydra/SKAT?color=#a3ff96&label-style=flat-square" </a>
+  <img src="https://img.shields.io/github/last-commit/kl3ssydra/SKAT?color=#a3ff96&label-style=flat-square" </a>
+  <img src="https://img.shields.io/github/downloads/kl3ssydra/SKAT?color=#a3ff96&labellabel=1.4.6 Downloads&style=flat-square" </a>
+  <img src="https://img.shields.io/github/stars/kl3ssydra/SKAT?color=#a3ff96&label=Stars&style=flat-square" </a>
+  <img src="https://img.shields.io/github/forks/kl3ssydra/SKAT?color=#a3ff96&label=Stars&style=flat-square" </a>
+</p>
 <p align="center">
   first of all you have to open the `setup.bat` file
   <br>
