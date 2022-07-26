@@ -1,5 +1,5 @@
 
-<h1 align="center"> SKAT 🍪 </h1>
+<h1 align="center"> ☢️ SKAT ☢️ </h1>
 
 <p>
   first of all you have to open the `setup.bat` file
