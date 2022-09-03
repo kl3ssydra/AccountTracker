@@ -3,7 +3,7 @@ import requests
 import time
 
 username = input('[?] username : ')
-
+ 
 instagram = f'https://www.instagram.com/{username}'
 facebook = f'https://www.facebook.com/{username}'
 twitter = f'https://www.twitter.com/{username}'
